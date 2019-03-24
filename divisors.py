@@ -4,7 +4,8 @@
 
 # For number between 1,000 and 10,000
 for n in range(1000,10000):
-  #If number is divisible by 6 and not divisible by 12
+  
+  #Check if number is divisible by 6 and not divisible by 12
   if n % 6 == 0 and n % 12 != 0:
     # When the previous if statement is true, print the number to the screen
     print(n)

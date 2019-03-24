@@ -1,4 +1,4 @@
-# pands-problem-set
+# Problem set solutions
 
 This repository contains my solutions to the Problem Set 2019 for the module Programming and Scripting at GMIT.
 [See here for the instructions](https://github.com/ianmcloughlin/problems-pands-2019/raw/master/problems.pdf)
