@@ -28,5 +28,5 @@ This repository contains my solutions to the Problem Set 2019 for the module Pro
 
 ## References
 [Stack Overflow](https://stackoverflow.com/) I used Stack Overflow in some of my solutions, as commented in the code.
-[Learn Online GMIT](https://learnonline.gmit.ie/course/view.php?id=1588#section-0) I used videos uploaded by the lecturer in some of my solutions, as commented in the code.
 
+[Learn Online GMIT](https://learnonline.gmit.ie/course/view.php?id=1588#section-0) I used videos uploaded by the lecturer in some of my solutions, as commented in the code.
