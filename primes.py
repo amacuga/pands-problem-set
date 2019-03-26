@@ -1,4 +1,4 @@
-# Alexandra Macuga, 2019-03-24
+# Alexandra Macuga, 2019-03-26
 # Write a program that asks the user to input a positive integer and tells the user whether or not the number is a prime.
 # Adapted from: https://web.microsoftstream.com/video/3ef695e3-9155-4487-b48e-0867834c76ad
 
