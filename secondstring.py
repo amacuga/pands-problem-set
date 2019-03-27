@@ -6,7 +6,7 @@
 s = input("Please enter a sentence: ")
 # Split the current sentence by spaces, then take every other word from it
 words = s.split()[::2]
-# Take the words, divide them by space and join them into the new sentence
+# Take the words, separate them by space and join them into the new sentence
 s = " ".join(words)
 # Print the new sentence
 print(s)
