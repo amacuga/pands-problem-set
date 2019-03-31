@@ -22,7 +22,7 @@ This repository contains my solutions to the Problem Set 2019 for the module Pro
 5. primes.py contains my solution to problem 5 in the problem set
 6. secondstring.py contains my solution to problem 6 in the problem set
 7. squareroot.py contains my solution to problem 7 in the problem set
-8. module.py contains my solution to problem 8 in the problem set
+8. dttime.py contains my solution to problem 8 in the problem set
 9. second.py contains my solution to problem 9 in the problem set
 10. functions.py contains my solution to problem 10 in the problem set
 
