@@ -32,3 +32,5 @@ This repository contains my solutions to the Problem Set 2019 for the module Pro
 [Learn Online GMIT](https://learnonline.gmit.ie/course/view.php?id=1588#section-0) I used videos uploaded by the lecturer in some of my solutions, as commented in the code.
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/) I used GeekforGeeks in my solution #10, as commented in the code.
+
+[matplotlib](https://matplotlib.org/index.html) I used matplotlib in my solution #10, as commented in the code.
